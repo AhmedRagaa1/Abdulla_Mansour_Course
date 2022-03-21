@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Kathianne Boniello",
+    "title": "Extra health insurance charge spurs Delta workers to get COVID vaccine - New York Post ",
+    "description": "Thousands of Delta Airlines employees have gotten inoculated against COVID-19 in the two weeks since the company announced a monthly $200 health insurance surcharge for the unvaccinated.",
+    "url": "https://nypost.com/2021/09/12/delta-airlines-new-health-insurance-surcharge-boosts-employee-covid-19-vaccine-rates/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/12400237b.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2021-09-12T05:37:00Z",
+    "content": "Thousands of Delta Airlines employees have gotten inoculated against COVID-19 in the two weeks since the company announced a monthly $200 health insurance surcharge for the unvaccinated, according to… [+653 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CleanTechnica"
+    },
+    "author": "https://www.facebook.com/zachary.shahan",
+    "title": "Tesla’s Sales Growth In Europe Keeps Going Strong (Graph) - CleanTechnica",
+    "description": "Tesla production and sales stats tracker Troy Teslike put out a noteworthy, eye-catching graph this week regarding Tesla registrations in Europe. As you can see in the graph (embedded in his tweet below), Tesla sales",
+    "url": "https://cleantechnica.com/2021/09/11/teslas-sales-growth-in-europe-keeps-going-graph/",
+    "urlToImage": "https://cleantechnica.com/files/2019/07/Tesla-Store-11E.jpg",
+    "publishedAt": "2021-09-12T05:34:30Z",
+    "content": "Tesla production and sales stats tracker Troy Teslike put out a noteworthy, eye-catching graph this week regarding Tesla registrations in Europe. As you can see in the graph (embedded in his tweet be… [+3456 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "San Francisco Chronicle"
+    },
+    "author": "Michael Cabanatuan",
+    "title": "In wake of Texas abortion law, Benioff tells Salesforce employees: ‘We’ll help you exit TX’ - San Francisco Chronicle",
+    "description": "Salesforce has offered to help its employees get out of Texas after the state's...",
+    "url": "https://www.sfchronicle.com/sf/article/In-wake-of-Texas-abortion-law-Benioff-tells-16452020.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/21/66/27/21456343/3/rawImage.jpg",
+    "publishedAt": "2021-09-12T00:51:34Z",
+    "content": "Salesforce, the San Francisco cloud-based software giant, has offered to help employees get out of Texas in the wake of state’s recently adopted anti-abortion legislation.Senate Bill 8 prohibits abor… [+2378 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Toyota, Honda oppose U.S. House electric vehicle tax plan - Reuters",
+    "description": "Toyota Motor Corp <a href=\"https://www.reuters.com/companies/7203.T\" target=\"_blank\">(7203.T)</a> and Honda Motor Co <a href=\"https://www.reuters.com/companies/7267.T\" target=\"_blank\">(7267.T)</a> on Saturday sharply criticized a proposal by Democrats in the …",
+    "url": "https://www.reuters.com/business/autos-transportation/toyota-says-it-will-fight-us-house-electric-vehicle-tax-plan-2021-09-11/",
+    "urlToImage": "https://www.reuters.com/resizer/7fcfeqVoHdWJIX86ZdeLOudvit4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4DY7I6UI5FNLHG2LAMDJ5HPWBI.jpg",
+    "publishedAt": "2021-09-12T00:29:00Z",
+    "content": "WASHINGTON, Sept 11 (Reuters) - Toyota Motor Corp (7203.T) and Honda Motor Co (7267.T) on Saturday sharply criticized a proposal by Democrats in the U.S. House of Representatives to give union-made e… [+2478 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "NYT News Service",
+    "title": "Google illegally underpaid temporary staff in at least 16 countries: Report - Times of India - Times of India",
+    "description": "International Business News: In December, a group of Google managers responsible for overseeing thousands of its temporary staff members discovered the company had been underpayin.",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/google-illegally-underpaid-temporary-staff-in-at-least-16-countries-report/articleshow/86131782.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-86131780,width-1070,height-580,imgsize-807435,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2021-09-12T00:04:00Z",
+    "content": "Google illegally underpaid temporary staff in at least 16 countries: Report"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bitcoin.com"
+    },
+    "author": null,
+    "title": "US SEC Issues Warning on Crypto Investment Scams Citing 'Some Investors May Have FOMO' – Regulation Bitcoin News - Bitcoin News",
+    "description": "The U.S. Securities and Exchange Commission (SEC) has issued a warning about fraudulent investment schemes involving cryptocurrencies.",
+    "url": "https://news.bitcoin.com/us-sec-warning-crypto-investment-scams-investors-fomo/",
+    "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2021/09/scam.jpg",
+    "publishedAt": "2021-09-11T23:44:51Z",
+    "content": "The U.S. Securities and Exchange Commission (SEC) has issued a warning about fraudulent investment schemes involving cryptocurrencies. The regulator notes that some investors may have fear of missing… [+1828 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Simple Flying"
+    },
+    "author": "",
+    "title": "20 Years Since 9/11: A Reflection - Simple Flying",
+    "description": "For many, it is hard to reckon that it has been 20 years since the fateful Tuesday when…",
+    "url": "https://simpleflying.com/9-11-20-years/",
+    "urlToImage": "https://simpleflying.com/wp-content/uploads/2021/09/GettyImages-119742018.jpg",
+    "publishedAt": "2021-09-11T23:25:21Z",
+    "content": "For many, it is hard to reckon that it has been 20 years since the fateful Tuesday when the world changed. The attacks of September 11th, 2001, still burn in hearts and minds, with the burden of loss… [+7714 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool"
+    },
+    "author": "Trevor Jennewine",
+    "title": "Cathie Wood's Latest Picks: 2 Stocks She Just Bought - Motley Fool",
+    "description": "Wood is doubling down on these innovative tech companies.",
+    "url": "https://www.fool.com/investing/2021/09/11/cathie-woods-lastest-picks-2-hot-stocks-she-bought/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/642751/artificial-intelligence-9.jpg",
+    "publishedAt": "2021-09-11T21:57:27Z",
+    "content": "Fund manager Cathie Wood, the founder and CEO of ARK Invest, has earned a reputation as one of Wall Street's best stock pickers. And that reputation is well deserved. Over the past one, three, and fi… [+4566 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/jon-fingas",
+    "title": "Virgin Galactic delays its first commercial research space flight to mid-October - Engadget",
+    "description": "Virgin Galactic will have to delay its first commercial research flight to mid-October over a possible defect..",
+    "url": "https://www.engadget.com/virgin-galactic-delays-first-commercial-research-flight-215439107.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/45b76200-1345-11ec-9bd7-99a5ee56a621",
+    "publishedAt": "2021-09-11T21:56:15Z",
+    "content": "Virgin Galactic is dealing with yet more setbacks for its paid spaceflights. Reutersreports Virgin has delayed its first commercial research flight, Unity 23, to no sooner than mid-October. The missi… [+1180 chars]"
+  },
+  {
+    "source": {
+      "id": "breitbart-news",
+      "name": "Breitbart News"
+    },
+    "author": "Paul Bois",
+    "title": "Former Flight Attendant Pushes Food Cart from Boston to New York to Honor 9/11 Victims - Breitbart",
+    "description": "To honor 9/11 victims, former flight attendant Paulie Veneto pushed an airline beverage cart from Boston to Ground Zero in New York City.",
+    "url": "https://www.breitbart.com/politics/2021/09/11/former-flight-attendant-pushes-food-cart-from-boston-to-new-york-to-honor-9-11-victims/",
+    "urlToImage": "https://media.breitbart.com/media/2021/09/AP_21235575395099-640x335.jpg",
+    "publishedAt": "2021-09-11T20:52:23Z",
+    "content": "To honor 9/11 victims, former flight attendant Paulie Veneto pushed an airline beverage cart from Boston to Ground Zero in New York City.\r\nThe 62-year-old Veneto began his 220-mile trek, aptly named … [+2085 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cointelegraph"
+    },
+    "author": null,
+    "title": "El Salvador buys the dip as Bitcoin Law goes live, 101 Bored Ape NFTs sold for $24M, Ukraine passes crypto legislation: Hodler's Digest, Sept. 5-11 - Cointelegraph",
+    "description": "El Salvador bought the dip after the Bitcoin Law went into effect, an SEC filing showed that MicroStrategy execs sold off stock in August, and Bored Ape NFTs fetched $24 million through auction.",
+    "url": "https://cointelegraph.com/magazine/2021/09/11/el-salvador-bitcoin-law-101-bored-ape-nfts-ukraine-passes-crypto-legislation-hodlers-digest-sept-5-11",
+    "urlToImage": "https://cointelegraph.com/magazine/wp-content/uploads/2021/09/SEPT-5-11.jpg",
+    "publishedAt": "2021-09-11T20:30:39Z",
+    "content": "Coming every Saturday, Hodlers Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, pr… [+11066 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Daily News"
+    },
+    "author": "Jessica Schladebeck",
+    "title": "Illinois Subway worker suspended after fighting off robber - New York Daily News",
+    "description": "An employee at a Subway shop in Illinois was suspended after a video of her bravely fending off an armed robber went viral online.",
+    "url": "https://www.nydailynews.com/news/national/ny-subway-worker-suspended-defending-self-illinois-20210911-aym35lg6nfe5dcdypptudn222q-story.html",
+    "urlToImage": "https://www.nydailynews.com/resizer/oEVe0AN3QgC4s5rQMzbhohPAAwc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JBMT7747TNDTTHDCBGX4A6VPIY.jpg",
+    "publishedAt": "2021-09-11T20:26:00Z",
+    "content": "An employee at a Subway shop in Illinois was suspended after a video of her bravely fending off an armed robber went viral online.\r\nAraceli Sotelo was working a shift at the sandwich chain in Rockfor… [+1513 chars]"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "China Counts Cost of Renewed Virus Shutdowns: Eco Week Ahead - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=20d6b17f-1353-11ec-88de-57457a684243&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOS0xMS9jaGluYS1jb3VudHMtY29zdC1vZi1yZW5ld2VkLXZpcnVzLXNodXRkb3ducy1lY28td2Vlay1haGVhZA==",
+    "urlToImage": null,
+    "publishedAt": "2021-09-11T20:00:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KHON2"
+    },
+    "author": "KHON2",
+    "title": "Hawaii reports 836 COVID cases, 12 new deaths - KHON2",
+    "description": "The Hawaii Department of Health (DOH) reports 836 new coronavirus cases, and 12 new deaths on Saturday, Sept. 11.",
+    "url": "https://www.khon2.com/coronavirus/hawaii-reports-836-covid-cases-xx-new-deaths/",
+    "urlToImage": "https://www.khon2.com/wp-content/uploads/sites/8/2020/08/AP39145090266-1.jpg?w=1280",
+    "publishedAt": "2021-09-11T19:04:11Z",
+    "content": "HONOLULU (KHON2) — The Hawaii Department of Health (DOH) reports 836 new coronavirus cases, and 12 new deaths on Saturday, Sept. 11.\r\nThere are 606 coronavirus cases on Oahu, 106 cases on the Big Isl… [+1203 chars]"
+  },
+  {
+    "source": {
+      "id": "breitbart-news",
+      "name": "Breitbart News"
+    },
+    "author": "Nick Gilbertson",
+    "title": "Pfizer Races to Seek Approval to Vaccinate Children Younger than 12 - Breitbart",
+    "description": "Producers of the Pfizer vaccine, BioNTech, are preparing to request clearance to vaccinate children five years old and older.",
+    "url": "https://www.breitbart.com/health/2021/09/11/pfizer-races-seek-approval-vaccinate-children-younger-12/",
+    "urlToImage": "https://media.breitbart.com/media/2021/06/Vaccine-crying-640x335.jpg",
+    "publishedAt": "2021-09-11T18:38:45Z",
+    "content": "Producers of the Pfizer vaccine, BioNTech, are preparing to request clearance to vaccinate children five and older, and the company is ready to begin making smaller doses for children younger than 12… [+2514 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "autoevolution"
+    },
+    "author": "Vlad Mitrache",
+    "title": "In Elon Musk We Trust - One Man's Rant - autoevolution",
+    "description": "As sure as the grass is green and the water is wet, Tesla has once again been at the center of attention this week after announcing it has set a new EV record for a production car at the Nürburgring.",
+    "url": "https://www.autoevolution.com/news/in-elon-musk-we-trust-one-man-s-rant-169165.html",
+    "urlToImage": "https://s1.cdn.autoevolution.com/images/news/in-elon-musk-we-trust-one-man-s-rant-169165_1.jpg",
+    "publishedAt": "2021-09-11T18:36:00Z",
+    "content": "Whether it's for something shady or something quite remarkable - as was the case with Thursday's achievement - the company led by Elon Musk always manages to make its way on what would have once been… [+6533 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "David Williams, CNN",
+    "title": "A West Virginia city is taking a Tesla patrol car for a test drive - CNN",
+    "description": "A West Virginia police department is kicking the tires on a new Tesla patrol car, and city officials think the fancy new ride could save them thousands of dollars each year.",
+    "url": "https://www.cnn.com/2021/09/11/us/tesla-police-car-west-virginia-trnd/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210911115631-02-tesla-police-car-trnd-super-tease.jpg",
+    "publishedAt": "2021-09-11T18:18:00Z",
+    "content": "(CNN)A West Virginia police department is kicking the tires on a new Tesla patrol car, and city officials think the fancy new ride could save them thousands of dollars each year.\r\nThe City of Nitro, … [+818 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Eileen AJ Connelly",
+    "title": "Budweiser updates iconic 'Respect' ad for 20th anniversary of 9/11 - New York Post ",
+    "description": "They’re harnessed up and once again clip-clopping across the Brooklyn Bridge on their way to pay tribute to the fallen.",
+    "url": "https://nypost.com/2021/09/11/budweiser-updates-iconic-respect-ad-for-20th-anniversary-of-9-11/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/clydesdale-tribute-ad-02.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2021-09-11T17:02:00Z",
+    "content": "They’re harnessed up and once again clip-clopping across the Brooklyn Bridge on their way to pay tribute to the fallen.\r\nBudweiser released an updated version of its iconic “Respect” commercial ahead… [+1963 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WHNT News 19"
+    },
+    "author": "Carson Burns",
+    "title": "Two teens dead after multi-vehicle wreck in Decatur - WHNT News 19",
+    "description": "Two juveniles died after a multi-vehicle crash on Old Moulton Road Friday night.",
+    "url": "https://whnt.com/news/decatur/two-juveniles-dead-after-multi-vehicle-crash-in-decatur/",
+    "urlToImage": "https://whnt.com/wp-content/uploads/sites/20/2021/09/police-lights2-1.jpg?w=1280",
+    "publishedAt": "2021-09-11T15:28:18Z",
+    "content": "DECATUR, Ala. — Two juveniles died after a multi-vehicle crash on Old Moulton Road Friday night.\r\nDecatur Police Department confirmed a 16-year-old driver and 13-year-old passenger, both from Decatur… [+617 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "autoevolution"
+    },
+    "author": "Vlad Mitrache",
+    "title": "2022 Subaru WRX With Lamborghini Ends Looks Like a Baby Urus - autoevolution",
+    "description": "When you think about the things a Lamborghini Urus and a Subaru WRX have in common, you probably don't imagine a list that's too long. They both have all-wheel-drive, turbocharged engines, and, beyond that, not much comes to mind other than dad jokes such as …",
+    "url": "https://www.autoevolution.com/news/2022-subaru-wrx-with-lamborghini-ends-looks-like-a-baby-urus-169161.html",
+    "urlToImage": "https://s1.cdn.autoevolution.com/images/news/2022-subaru-wrx-with-lamborghini-ends-looks-like-a-baby-urus-169161_1.jpg",
+    "publishedAt": "2021-09-11T15:25:00Z",
+    "content": "Now that the 2022 Subaru WRX is out, though, you can add one more thing to that... can we really call it a \"list\" with only two items on it? No, the Subaru didn't get a V8 - that would be the day - n… [+1724 chars]"
+  }
+]
+}
